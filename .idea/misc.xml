@@ -3,12 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_arrow_down.xml" value="0.156" />
         <entry key="app/src/main/res/drawable/ic_back.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.156" />
         <entry key="app/src/main/res/drawable/ic_img_close.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_manner_bar.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_manner_smile.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_men.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_share_btn.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/shape_read_chat_list_btn.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/shape_read_state_btn.xml" value="0.156" />
         <entry key="app/src/main/res/drawable/shape_rectangle.xml" value="0.156" />
+        <entry key="app/src/main/res/font/roboto.xml" value="0.28888888888888886" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_read.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_write.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/bottom_sheet_state.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/item_picture_list.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/item_read_vp_item.xml" value="0.22916666666666666" />
       </map>
     </option>
   </component>
